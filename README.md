@@ -1,6 +1,8 @@
 # Estatística em python
 
-Trabalho final da disciplina de estatísca de Tecnologias de programação e sistemas de informação
+Trabalho final da disciplina de estatísca de Tecnologias de programação e sistemas de informação. 
+
+Este trabalho foi feito num jupyter notebook 
 
 ***
 
